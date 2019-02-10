@@ -1,1 +1,4 @@
 hello: "worldddd"
+spring:
+  profiles:
+    active: dev
